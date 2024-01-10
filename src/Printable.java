@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Printable {
+public interface Printable {
+    void print();
 }
